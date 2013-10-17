@@ -1,0 +1,19 @@
+{
+  "example.com": {
+    "chad": "chad@mktgdept.com"
+  },
+  "nospam.me": {
+    "chad": "chad@mktgdept.com",
+    "craigslist": "chad@mktgdept.com",
+    "fantasy-football": [
+      "kcwolf@kcchiefs.com",
+      "chad@mktgdept.com",
+      "someone@example.com",
+      "mike@smithfam.net"
+    ],
+    "house-showings": [
+      "chad@mktgdept.com",
+      "laura@smithfam.net"
+    ]
+  }
+}
