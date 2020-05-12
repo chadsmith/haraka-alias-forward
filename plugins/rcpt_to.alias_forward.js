@@ -1,5 +1,5 @@
 var
-  Address = require('./address').Address,
+  Address = require('address-rfc2821').Address,
   util = require('util');
 
 exports.register = function () {
